@@ -5,8 +5,6 @@ LevelUP Games
 + Volkan Aslan: Scrum Master/Developer
 + Zuhal Usalp: Product Owner/Developer
 + Zeynep Eke: Developer
-+ Yağmur Cem Gül: Developer
-+ Veysel Aydın Eralp: Developer
 
 # Ürün İsmi <br/>
 Kayıp Zamanın Savaşçısı
@@ -32,7 +30,7 @@ Oyun fikirleri değerlendirildi ve 30.06.2024 tarihinde Kayıp Zamanın Savaşç
 29 Puan
 ### Puan tamamlama mantığı: 
 Oyun projemizde 298 puanlık backlog bulunmaktadır. İlk sprint görevler tasarım ve assetlerin belirlenmesinden oluştuğu için 29 puanla sınırlandırılmıştır.
-### Daily Scrum: 
+### Daily Scrum: Daily Scrum toplantıları Discord üzerinden yapılmıştır. Toplantı örnekleri aşağıda paylaşılmıştır.
 ![Sprint 1 Daily Scrum Örneği](https://github.com/zeynepeke/Grup-119-OUA/assets/171696673/dd196d69-467d-4c54-8853-869a87eeba82)
 
 ![Sprint 1 Daily Scrum Örneği 2](https://github.com/zeynepeke/Grup-119-OUA/assets/171696673/ca4de769-d7bc-492e-9718-65db862037e6)
@@ -47,6 +45,14 @@ Oyun projemizde 298 puanlık backlog bulunmaktadır. İlk sprint görevler tasar
 
 ### Ürün Durumu: 
 Ekran görüntüleri:
+![çevre2](https://github.com/zeynepeke/Grup-119-OUA/assets/171696673/63ceaaff-509e-411f-b4ce-d47b31082160)
+![çevre1](https://github.com/zeynepeke/Grup-119-OUA/assets/171696673/f8b3a97d-6efd-4bc6-9d08-efb4acae08ff)
+![çevre 4](https://github.com/zeynepeke/Grup-119-OUA/assets/171696673/45af0d4b-14f5-4591-989d-fdaffcdaeca1)
+![çevre 3](https://github.com/zeynepeke/Grup-119-OUA/assets/171696673/4d041afe-b1e8-4910-888a-9aa6ab436393)
+![Hero1](https://github.com/zeynepeke/Grup-119-OUA/assets/171696673/080725b1-17e5-4064-8e4d-b19544670c8d)
+![Hero 2](https://github.com/zeynepeke/Grup-119-OUA/assets/171696673/767c95be-0332-4a56-a142-2ea955815347)
+
+
 ### Sprint Review:
 Sprint Review: Zaman kısıtlaması ve teknik sorunlardan dolayı ilk level tasarımının daha detaylı hale getirilmesi ikinci sprinte bırakılmıştır. İkinci sprintte tasarlanan level oyuncunun eklenmesiyle denenecektir. 
 Review Katılımcıları: Volkan Aslan, Zuhal Usalp, Zeynep Eke
