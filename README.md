@@ -68,9 +68,8 @@ Bu sprintte öncelik verilecek görevler belirlendi ve görev paylaşımı yapı
 122 Puan
 ### Daily Scrum: 
 Daily Scrum toplantıları Discord üzerinden yapılmıştır. Toplantı örnekleri aşağıda paylaşılmıştır.
-![Sprint 2 Daily Scrum Örneği 1](https://github.com/user-attachments/assets/650a90e1-ab8b-4572-b577-5770ddb7d2cf)
-![Sprint 2 Daily Scrum Örneği 2](https://github.com/user-attachments/assets/c76d1fe2-6f94-48dd-bf3b-7d566b8e0c4d)
-![Sprint 2 Daily Scrum Örneği 3](https://github.com/user-attachments/assets/bf6b4016-5c91-4bb9-9110-6d5c522d2c56)
+![Picture2](https://github.com/user-attachments/assets/f0be4bca-8f60-43ca-ba47-18fc9d5898c4)
+![Picture1](https://github.com/user-attachments/assets/446a13f5-7341-49d8-b3f6-07385c0fe7cd)
 
 ### Sprint board update: 
 ![Sprint Board 2-1](https://github.com/user-attachments/assets/4801bb58-d605-466b-a0a7-ae32948a6337)
@@ -78,13 +77,14 @@ Daily Scrum toplantıları Discord üzerinden yapılmıştır. Toplantı örnekl
 ![Sprint Board 2-3](https://github.com/user-attachments/assets/61f6fa2c-516f-44c4-b501-88a7ff447b21)
 
 ### Ürün Durumu: Ekran görüntüleri:
+![Karakter Saldırı](https://github.com/user-attachments/assets/83f3cab9-04e7-4c49-9651-aaf8bde1a49e)
 ![level_1_2](https://github.com/user-attachments/assets/77140f09-e07a-40ed-963c-e0dfcad227b5)
 ![level_1_1](https://github.com/user-attachments/assets/0a7de450-6441-442d-8234-f5cb68fb5b15)
 ![Oyun Örnek](https://github.com/user-attachments/assets/b3b31b9f-d3c2-456e-8a13-d0b735cb9f12)
 ![level_1_5](https://github.com/user-attachments/assets/fc82b22f-4753-48a3-9e1b-83b401628763)
 ![level_1_4](https://github.com/user-attachments/assets/e9825450-838f-45cb-9fdc-c8fed40b52bd)
 ![level_1_3](https://github.com/user-attachments/assets/2fc7965b-3a5f-4c17-a56a-0c946c7e550a)
-![Karakter Saldırı](https://github.com/user-attachments/assets/83f3cab9-04e7-4c49-9651-aaf8bde1a49e)
+
 
 ### Sprint Review:
 1. Seviye tasarımı tamanlamıştır. Ana kahraman ve düşmanlar sahneye eklenerek test edilmiştir. 2. Seviye için gerekli assetler hazırlandı. Bir sonraki sprintte tasarımı tamamlanacaktır. Sprint Review katılımcıları: Volkan Aslan, Zuhal Usalp, Zeynep Eke
