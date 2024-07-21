@@ -68,15 +68,20 @@ Bu sprintte öncelik verilecek görevler belirlendi ve görev paylaşımı yapı
 122 Puan
 ### Daily Scrum: 
 Daily Scrum toplantıları Discord üzerinden yapılmıştır. Toplantı örnekleri aşağıda paylaşılmıştır.
-![Picture2](https://github.com/user-attachments/assets/f0be4bca-8f60-43ca-ba47-18fc9d5898c4)
-![Picture1](https://github.com/user-attachments/assets/446a13f5-7341-49d8-b3f6-07385c0fe7cd)
+
+![Picture2](https://github.com/user-attachments/assets/34cef211-f370-4004-89cd-75caf31782c4)
+
+![Picture1](https://github.com/user-attachments/assets/9e108b54-6307-4896-a3ab-5bc6045798d6)
+
 
 ### Sprint board update: 
+
 ![Sprint Board 2-1](https://github.com/user-attachments/assets/4801bb58-d605-466b-a0a7-ae32948a6337)
 ![Sprint Board 2-2](https://github.com/user-attachments/assets/05e56319-c13c-4542-a4ae-9586aedb98ef)
 ![Sprint Board 2-3](https://github.com/user-attachments/assets/61f6fa2c-516f-44c4-b501-88a7ff447b21)
 
 ### Ürün Durumu: Ekran görüntüleri:
+
 ![Karakter Saldırı](https://github.com/user-attachments/assets/83f3cab9-04e7-4c49-9651-aaf8bde1a49e)
 ![level_1_2](https://github.com/user-attachments/assets/77140f09-e07a-40ed-963c-e0dfcad227b5)
 ![level_1_1](https://github.com/user-attachments/assets/0a7de450-6441-442d-8234-f5cb68fb5b15)
