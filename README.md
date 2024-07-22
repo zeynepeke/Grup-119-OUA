@@ -66,6 +66,10 @@ Review Katılımcıları: Volkan Aslan, Zuhal Usalp, Zeynep Eke
 Bu sprintte öncelik verilecek görevler belirlendi ve görev paylaşımı yapıldı. Görevlerin işbirliği ile tamamlanması kararlaştırıldı.
 ### Sprint içinde tamamlanması tahmin edilen puan: 
 122 Puan
+
+### Puan tamamlama mantığı: 
+2. Sprintte 156 puan tamamlanması planlanmış ama ilk level tasarımı beklenenden uzun sürdüğünden 122 puan tamamlanabilmiştir. Tamamlanan puanlar level tasarımı , karakter, NPC ve düşmanlarla ilgili görevleri içermektedir.
+
 ### Daily Scrum: 
 Daily Scrum toplantıları Discord üzerinden yapılmıştır. Toplantı örnekleri aşağıda paylaşılmıştır.
 
