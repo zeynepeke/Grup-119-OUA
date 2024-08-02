@@ -103,12 +103,32 @@ Unity ve Github'da yaşanan teknik sorunlardan dolayı istenen hızda ilerleme s
 
 # Sprint 3
 ### Sprint Notları:
+Bu sprintte oyunu tamamlamak için öncelikli görevler üzerine yoğunlaşıldı. Sprint boyunca yoğun bir çalışma temposu edinildi. Oynanışta çıkan sorunlar ve zaman kısıtlılığından dolayı bazı görevler iptal edildi.
+
 ### Sprint içinde tamamlanması tahmin edilen puan: 
+68 Puan
+
 ### Puan tamamlama mantığı:
+Son sprintte önemli görevlere öncelik verilmesi ve zaman kısıtlılığından dolayı 68 puan tamamlanabilmiştir. 76 puanlık görevler iptal edilmiştir. 
+
 ### Daily Scrum: 
+Daily Scrum toplantıları Discord üzerinden yapılmıştır. Toplantı örnekleri aşağıda paylaşılmıştır.
+![sprint 3-1](https://github.com/user-attachments/assets/3b1d7474-9189-4bb0-8010-075770af21da)
+
 ### Sprint board update: 
+![3-1](https://github.com/user-attachments/assets/9ac5894b-26a1-4e43-a465-87ef8b52247d)
+![3-2](https://github.com/user-attachments/assets/385da963-9258-4944-a132-e27d566e47f2)
+![3-3](https://github.com/user-attachments/assets/95594e20-d71f-4984-8431-578b061ca6d9)
+
 ### Ürün Durumu: Ekran görüntüleri:
+![ürün1](https://github.com/user-attachments/assets/321c6268-e247-4dc7-a035-e102cbd3015a)
+![ürün2](https://github.com/user-attachments/assets/1baa0c5a-674b-48a7-b018-538d2a4539c1)
+![ürün3](https://github.com/user-attachments/assets/84b07754-7daa-48fb-8792-22360531db35)
+
 ### Sprint Review:
+Oynanışta ortaya çıkan sorunların giderilmesi için çok zaman harcanmıştır. Seviyedeki düşman türleri arttırılmıştır. Seviyenin daha iyi bir duruma getirilmesi sağlanmıştır. Sprint Review katılımcıları: Volkan Aslan, Zuhal Usalp, Zeynep Eke
+
 ### Sprint Retrospective:
+Zaman kısıtlılığı belirlenen görevlerin tamamının bitirilmesine engel olmuştur. Bu görevlerin daha sonra oyunun asıl sürümüne eklenti paketi olarak dahil edilmesine karar verilmiştir.
 
 
