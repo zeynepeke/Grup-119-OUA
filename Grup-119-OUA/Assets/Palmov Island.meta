@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<<< Updated upstream:Grup-119-OUA/Assets/Palmov Island.meta
 guid: ea5ba7b7350c3dd4a996a22fd5467009
+========
+guid: 233b349e5e660354e9b91ae4445c0e09
+>>>>>>>> Stashed changes:Grup-119-OUA/Assets/1.LEVEL_Profiles.meta
+=======
+guid: 9080b9f3013e76546a269c814584f83f
+>>>>>>> Stashed changes
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
