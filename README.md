@@ -9,6 +9,8 @@ LevelUP Games
 # Ürün İsmi <br/>
 Kayıp Zamanın Savaşçısı
 # Ürün Açıklaması 
+(Oyunumuzun demo sürümü yayınlanmıştır. Tam sürüm için çalışmalar devam etmektedir.)
+
 Eski zamanlarda, Zaman Tapınağı adı verilen gizemli bir yapıda saklı olan büyülü bir zaman kristali, dünyanın dengesini sağlayan bir güç kaynağıdır. Ancak bir gün, karanlık bir büyücü tarafından kristal çalınır ve dünyada zamanın kaosu başlar. Kahramanımız, Zamanın Muhafızı olarak seçilir ve zaman kristalini geri getirmek için tehlikeli bir yolculuğa çıkar. Farklı zaman periyotlarına seyahat ederek düşmanlarla mücadele eder. Büyücüyü yenerek zaman kristalini geri almak için ipuçlarını toplar.
 
 # Ürün Özellikleri
